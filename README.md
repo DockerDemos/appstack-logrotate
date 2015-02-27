@@ -1,7 +1,7 @@
 appstack-logrotate
 ===================
 
-_v1.0 - 20150227__
+_v1.0 - 20150227_
 
 Docker image for rotating logs inside of Docker containers
 
